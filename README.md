@@ -15,5 +15,5 @@ WDH Campaign Log: [wdh.purpledragontavern.me](https://wdh.purpledragontavern.me/
 Game On!: [purpledragontavern.me](https://purpledragontavern.me/about)
 
 ### About the DM
-Jeff discovered D&D during the quarantine of 2020 and immediately fell in love with it. He's a microbiology major who likes tinkering with computers.
+Jeff discovered D&D during the quarantine of 2020 and immediately fell in love with it. He's a microbiology major who likes tinkering with computers.  
 ![D&D!](https://objectstorage.ap-seoul-1.oraclecloud.com/n/cn0yxy9huccd/b/helianthus/o/Images%2FDnDIMG_1385.jpg)
