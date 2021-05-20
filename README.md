@@ -1,4 +1,4 @@
-## Welcome to leveloneadventure![🧙‍♂️](https://leveloneadventure.me/about)
+## Welcome to leveloneadventure!:mage_man:  
 
 My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'll be your DM for today!  
 I go by Helianthus on discord, and I also go by Ephiriel in some of my other games.
