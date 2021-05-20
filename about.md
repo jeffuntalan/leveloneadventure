@@ -1,5 +1,4 @@
 ## What is this?
-Hey, you found this!😀
 
 **leveloneadventure.me** is a simple website created using markdown on [Github Pages](https://pages.github.com/ "Github Pages"). I created this to be a minimal, central hub for my FoundryVTT games, D&D session notes, useful websites, and some contact details. 
 
@@ -16,3 +15,4 @@ Send me an email if you have questions, or add me up on discord!
 - ✉️**Email:** leveloneadventure@gmail.com
 - 🌏**Discord:** [Dungeons and Dragons!](https://discord.gg/TaGUnUT5mG "Dungeons and Dragons!") server
 - 🎮**Discord Name:** Helianthus#8290
+- 🖥️**Steam Friend Code:** [143867609](https://steamcommunity.com/id/helianthusuplb/)
