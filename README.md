@@ -1,9 +1,9 @@
 ## Welcome to leveloneadventure[!](https://leveloneadventure.me/about)🧙‍♂️
 
-My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'll be your DM for today!  
-I go by Helianthus on discord, and I also go by Ephiriel in some of my other games.
+My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'm the DM around these parts.  
+I go by Helianthus on discord, also Ephiriel in some of my other games.
 
-### Here is the current game I'm running!
+### Here is the current D&D game I'm running!
 
 **Main Server:** [dnd.leveloneadventure.me](https://dnd.leveloneadventure.me/)  
 Backup Server: [clau.leveloneadventure.me](https://clau.leveloneadventure.me/)
@@ -16,4 +16,4 @@ Game On!: [purpledragontavern.me](https://purpledragontavern.me/about)
 
 ### About the DM
 Jeff learned D&D during the quarantine of 2020 and immediately fell in love with it.  
-He's a microbiology major who likes tinkering with computers.
+He's a microbiology major who likes tinkering with computers, playing guitar, and rolling dice.
