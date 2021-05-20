@@ -10,9 +10,14 @@ I host my games on dedicated servers. The cloud providers I use are: Oracle Clou
 
 Campaign notes are hosted on [Notion](https://www.notion.so/ "Notion") with some fancy tricks from [Fruitionsite](https://fruitionsite.com/ "Fruitionsite") to append my custom domain.
 
+### About the DM
+I learned D&D during the quarantine of 2020 and immediately fell in love with it.  
+I'm a microbiology major who likes tinkering with computers, playing guitar, and rolling dice.
+
 ### Contact Details
-Send me an email if you have questions, or add me up on discord!
+Send me an email if you have questions, add me up on discord, or follow me on social media!
 - ✉️**Email:** leveloneadventure@gmail.com
+- 📷**Instagram:** [jeffuntalan](https://www.instagram.com/jeffuntalan/)
 - 🌏**Discord:** [Dungeons and Dragons!](https://discord.gg/TaGUnUT5mG "Dungeons and Dragons!") server
 - 🎮**Discord Name:** Helianthus#8290
 - 🖥️**Steam Friend Code:** [143867609](https://steamcommunity.com/id/helianthusuplb/)
