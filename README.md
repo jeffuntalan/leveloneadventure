@@ -1,6 +1,7 @@
 ## Welcome to leveloneadventure! 🧙‍♂️
 
-Hi there! My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'm the DM around these parts. I go by Helianthus on discord, sometimes Ephiriel other games. My D&D games are held on FoundryVTT with voice on discord. I don't require anything from players aside from the will to play, and a few [gentle reminders](https://wdh.purpledragontavern.me/etiquettes). Looking forward to playing with you! 🥳
+Hi there! My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'm the DM around these parts.  
+Looking forward to playing with you! 🥳
 
 ### Here is the current D&D game I'm running!
 
