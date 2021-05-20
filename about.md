@@ -12,7 +12,7 @@ I host my games on a dedicated servers. The cloud providers I use are: Oracle Cl
 Campaign notes are hosted on [Notion](https://www.notion.so/ "Notion") with some fancy tricks from [Fruitionsite](https://fruitionsite.com/ "Fruitionsite") to append my custom domain.
 
 ### Contact Details
-Send me and email if you have questions, or add me up on discord!
+Send me an email if you have questions, or add me up on discord!
 - ✉️**Email:** leveloneadventure@gmail.com
 - 🌏**Discord:** [Dungeons and Dragons!](https://discord.gg/TaGUnUT5mG "Dungeons and Dragons!") server
 - 🎮**Discord Name:** Helianthus#8290
