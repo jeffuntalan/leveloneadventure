@@ -1,6 +1,6 @@
 ## Welcome to leveloneadventure[!](https://leveloneadventure.me/about)🧙‍♂️
 
-My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'm the DM around these parts.  
+Hi! My name is [Jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU) and I'm the DM around these parts.  
 I go by Helianthus on discord, also Ephiriel in some of my other games.
 
 ### Here is the current D&D game I'm running!
