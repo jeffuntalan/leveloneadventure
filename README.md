@@ -8,7 +8,7 @@ I go by Helianthus on discord, also Ephiriel in some of my other games.
 **Main Server:** [dnd.leveloneadventure.me](https://dnd.leveloneadventure.me/)  
 Backup Server: [clau.leveloneadventure.me](https://clau.leveloneadventure.me/)
 
-### Here are some campaign notes!
+### Here are the campaign notes!
 WDH Campaign Log: [wdh.purpledragontavern.me](https://wdh.purpledragontavern.me/campaign)
 
 ### Here is the website of a super cool org!
