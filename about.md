@@ -15,9 +15,9 @@ I learned D&D during the quarantine of 2020 and immediately fell in love with it
 I'm a microbiology major who likes tinkering with computers, playing guitar, and rolling dice.
 
 ### Contact Details
-Send me an email if you have questions, add me up on discord, or follow me on social media!
+Send me an email if you have questions! You can also add me up on discord, or follow me on social media! I follow back.😁
 - ✉️**Email:** leveloneadventure@gmail.com
 - 📷**Instagram:** [jeffuntalan](https://www.instagram.com/jeffuntalan/)
-- 🌏**Discord:** [Dungeons and Dragons!](https://discord.gg/TaGUnUT5mG "Dungeons and Dragons!") server
+- 🐦**Twitter:** [@manameisjep](https://twitter.com/manameisjep)
 - 🎮**Discord Name:** Helianthus#8290
 - 🖥️**Steam Friend Code:** [143867609](https://steamcommunity.com/id/helianthusuplb/)
