@@ -4,7 +4,7 @@ Hey, you found this!😀
 **leveloneadventure.me** is a simple website created using markdown on [Github Pages](https://pages.github.com/ "Github Pages"). I created this to be a minimal, central hub for my FoundryVTT games, D&D session notes, useful websites, and some contact details. 
 
 ### FoundryVTT
-[Foundry Virtual Tabletop](https://foundryvtt.com/ "Foundry virtual tabletop") is my preferred medium for online DnD sessions. It struck a chord with me because of its community-focused development, robust set of features that rivals (and sometimes exceeds) Roll20 and Fantasy Grounds, and it's "pay once" licensing model. The community is amazing, and it has been worth every peso I paid for it so far. ☺️
+[Foundry Virtual Tabletop](https://foundryvtt.com/ "Foundry virtual tabletop") is my preferred medium for online DnD sessions. It struck a chord with me because of its community-focused development, robust set of features that rivals (and sometimes exceeds) Roll20 and Fantasy Grounds, and it's "pay once" licensing model. The community is amazing, and it has been worth every peso I paid for it so far. 😄
 
 ### Hosting
 I host my games on a dedicated servers. The cloud providers I use are: Oracle Cloud (Seoul), Digital Ocean (Singapore), Azure (Singapore). The main server is on Oracle Cloud, while backup, beta, and org servers are hosted on Digital Ocean and Azure. If you're a student, and you want to do something similar, the [Github Student Developer Pack](https://education.github.com/pack "Github Student Developer Pack") will help you a ton. I learned about server hosting on the [Foundry Wiki](https://foundryvtt.wiki/en/home).
